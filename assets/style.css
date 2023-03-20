@@ -77,6 +77,10 @@ body{
      bottom: 70px;
 }
 
+#offcanvasRight{
+     width: 100% ;
+}
+
 @media screen and (min-width: 992px) {
      #sidebar{
           width: 150px;
@@ -84,6 +88,10 @@ body{
 
      main{
           margin-left: 150px;
+     }
+
+     #offcanvasRight{
+          width: 40%;
      }
 
 
